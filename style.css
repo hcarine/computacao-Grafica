@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav_header{
+    list-style-type: none;
+    overflow: hidden;
+    width: 100%;
+    background-color: #3399ff;
+}
+.nav_header li{
+    float: left;
+    padding: 14px 0;
+}
+
+.nav_header li a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+.nav_header li a:hover {
+    background-color: #000099;
+}
+
+h2{
+    margin-top: 10px;
+}
